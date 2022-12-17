@@ -7,3 +7,6 @@
 [submodule "piedpiper"]
 	path = piedpiper
 	url = https://github.com/FlashDrag/piedpiper
+[submodule "coders_coffeehouse"]
+	path = coders_coffeehouse
+	url = https://github.com/FlashDrag/coders_coffeehouse.git
