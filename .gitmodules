@@ -13,3 +13,6 @@
 [submodule "love-running"]
 	path = love-running
 	url = https://github.com/FlashDrag/love-running.git
+[submodule "love-maths"]
+	path = love-maths
+	url = https://github.com/FlashDrag/love-maths.git
