@@ -4,6 +4,10 @@
     - ### [Live Link](https://flashdrag.github.io/love-maths/)
     - ### [Repo](https://github.com/FlashDrag/love-maths)
 
+- ## Love Sandwiches - A command line based Python program to handle data   automation for a fictional sandwich company
+    - ### [Live Link](https://flashdrag.github.io/love-sandwiches/)
+    - ### [Repo](https://github.com/FlashDrag/love-sandwiches)
+
 - ## Love Running - HTML/CSS Static Website
     - ### [Live Link](https://flashdrag.github.io/love-running/)
     - ### [Repo](https://github.com/FlashDrag/love-running)

@@ -16,3 +16,6 @@
 [submodule "love-maths"]
 	path = love-maths
 	url = https://github.com/FlashDrag/love-maths.git
+[submodule "love-sandwiches"]
+	path = love-sandwiches
+	url = https://github.com/FlashDrag/love-sandwiches
