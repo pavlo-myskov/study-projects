@@ -1,12 +1,16 @@
-# My Educational PROJECTS
+# My Study PROJECTS
 
 - ## Love Maths - JavaScript Maths Game
     - ### [Live Link](https://flashdrag.github.io/love-maths/)
     - ### [Repo](https://github.com/FlashDrag/love-maths)
 
-- ## Love Sandwiches - A command line based Python program to handle data   automation for a fictional sandwich company
+- ## Love Sandwiches - A command line based Python program to handle data automation for a fictional sandwich company
     - ### [Live Link](https://love-sandwiches-code-inst.herokuapp.com/)
     - ### [Repo](https://github.com/FlashDrag/love-sandwiches)
+
+- ## Whiskey Drop - HTML/CSS Static Landing page styled with Bootstrap
+    - ### [Live Link](https://flashdrag.github.io/whiskey-drop/)
+    - ### [Repo](https://github.com/FlashDrag/whiskey-drop/)
 
 - ## Love Running - HTML/CSS Static Website
     - ### [Live Link](https://flashdrag.github.io/love-running/)
