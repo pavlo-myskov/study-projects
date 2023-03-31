@@ -1,5 +1,9 @@
 # My Study PROJECTS
 
+- ## JS Validator - JavaScript Code Validator
+    - ### [Live Link](https://js-validator.netlify.app/)
+    - ### [Repo](https://github.com/FlashDrag/js-validator)
+
 - ## Love Maths - JavaScript Maths Game
     - ### [Live Link](https://flashdrag.github.io/love-maths/)
     - ### [Repo](https://github.com/FlashDrag/love-maths)

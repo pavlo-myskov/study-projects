@@ -22,3 +22,6 @@
 [submodule "whiskey-drop"]
 	path = whiskey-drop
 	url = https://github.com/FlashDrag/whiskey-drop
+[submodule "js-validator"]
+	path = js-validator
+	url = https://github.com/FlashDrag/js-validator
