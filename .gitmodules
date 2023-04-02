@@ -25,3 +25,6 @@
 [submodule "js-validator"]
 	path = js-validator
 	url = https://github.com/FlashDrag/js-validator
+[submodule "simon-memory-game"]
+	path = simon-memory-game
+	url = https://github.com/FlashDrag/simon-memory-game

@@ -1,5 +1,9 @@
 # My Study PROJECTS
 
+- ## Simon Memory Game - JavaScript game built using Test Driven Development (TDD)
+    - ### [Live Link](https://flashdrag.github.io/simon-memory-game/)
+    - ### [Repo](https://github.com/FlashDrag/simon-memory-game)
+
 - ## JS Validator - JavaScript Code Validator
     - ### [Live Link](https://js-validator.netlify.app/)
     - ### [Repo](https://github.com/FlashDrag/js-validator)
