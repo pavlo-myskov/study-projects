@@ -1,5 +1,9 @@
 # My Study PROJECTS
 
+- ## Task manager - The Web application built using Flask, SQLAlchemy ORM, and a frontend framework Materialize. It uses remote DB and perform full CRUD operations.
+    - ### [Live Link](https://taskmanager-flaskapp.herokuapp.com/)
+    - ### [Repo](https://github.com/FlashDrag/flask-task-manager)
+
 - ## Thorin and Company - Simple Flask Web application based on the StartBootstrap theme
     - ### [Live Link](https://flask-app-thorin-and-company.herokuapp.com)
     - ### [Repo](https://github.com/FlashDrag/thorin-flask-app)
