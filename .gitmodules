@@ -28,3 +28,6 @@
 [submodule "simon-memory-game"]
 	path = simon-memory-game
 	url = https://github.com/FlashDrag/simon-memory-game
+[submodule "thorin-flask-app"]
+	path = thorin-flask-app
+	url = https://github.com/FlashDrag/thorin-flask-app

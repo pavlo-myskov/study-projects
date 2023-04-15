@@ -1,5 +1,9 @@
 # My Study PROJECTS
 
+- ## Thorin and Company - Simple Flask Web application based on the StartBootstrap theme
+    - ### [Live Link](https://flask-app-thorin-and-company.herokuapp.com)
+    - ### [Repo](https://github.com/FlashDrag/thorin-flask-app)
+
 - ## Simon Memory Game - JavaScript game built using Test Driven Development (TDD)
     - ### [Live Link](https://flashdrag.github.io/simon-memory-game/)
     - ### [Repo](https://github.com/FlashDrag/simon-memory-game)
