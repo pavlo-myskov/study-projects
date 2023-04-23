@@ -34,3 +34,6 @@
 [submodule "flask-task-manager"]
 	path = flask-task-manager
 	url = https://github.com/FlashDrag/flask-task-manager
+[submodule "django-to-do-app"]
+	path = django-to-do-app
+	url = https://github.com/FlashDrag/django-to-do-app

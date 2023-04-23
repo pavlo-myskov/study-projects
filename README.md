@@ -1,6 +1,10 @@
 # My Study PROJECTS
 
-- ## Task manager - The Web application built using Flask, SQLAlchemy ORM, and a frontend framework Materialize. It uses remote DB and perform full CRUD operations.
+- ## Django ToDo List - Simple ToDo app built using Django and Bootstrap
+    - ### [Live Link](https://to-do-app-django.herokuapp.com/)
+    - ### [Repo](https://github.com/FlashDrag/django-to-do-app)
+
+- ## Task manager - Web app based on Flask, Flask-SQLAlchemy, and frontend framework Materialize.
     - ### [Live Link](https://taskmanager-flaskapp.herokuapp.com/)
     - ### [Repo](https://github.com/FlashDrag/flask-task-manager)
 
