@@ -4,6 +4,10 @@
     - ### [Live Link](https://to-do-app-django.herokuapp.com/)
     - ### [Repo](https://github.com/FlashDrag/django-to-do-app)
 
+- ## Django Blog - Django Blog that performs full CRUD operations and uses PostgreSQL as a database
+    - ### [Live Link](https://django--blog.herokuapp.com/)
+    - ### [Repo](https://github.com/FlashDrag/django-blog)
+
 - ## Task manager - Web app based on Flask, Flask-SQLAlchemy, and frontend framework Materialize.
     - ### [Live Link](https://taskmanager-flaskapp.herokuapp.com/)
     - ### [Repo](https://github.com/FlashDrag/flask-task-manager)

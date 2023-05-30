@@ -37,3 +37,6 @@
 [submodule "django-to-do-app"]
 	path = django-to-do-app
 	url = https://github.com/FlashDrag/django-to-do-app
+[submodule "django-blog"]
+	path = django-blog
+	url = https://github.com/FlashDrag/django-blog
