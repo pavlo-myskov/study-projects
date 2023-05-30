@@ -40,3 +40,6 @@
 [submodule "django-blog"]
 	path = django-blog
 	url = https://github.com/FlashDrag/django-blog
+[submodule "resume-pavlo-myskov"]
+	path = resume-pavlo-myskov
+	url = https://github.com/FlashDrag/resume-pavlo-myskov

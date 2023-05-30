@@ -1,5 +1,9 @@
 # My Study PROJECTS
 
+- ## Resume - Web App based on Bootstrap 4.6. Provides information about developer's skills, experience, and education.
+    - ### [Live Link](https://resume-pavlo-myskov.netlify.app/)
+    - ### [Repo](https://github.com/FlashDrag/resume-pavlo-myskov/)
+
 - ## Django ToDo List - Simple ToDo app built using Django and Bootstrap
     - ### [Live Link](https://to-do-app-django.herokuapp.com/)
     - ### [Repo](https://github.com/FlashDrag/django-to-do-app)
