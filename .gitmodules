@@ -43,3 +43,6 @@
 [submodule "resume-pavlo-myskov"]
 	path = resume-pavlo-myskov
 	url = https://github.com/FlashDrag/resume-pavlo-myskov
+[submodule "boutique-ado"]
+	path = boutique-ado
+	url = https://github.com/FlashDrag/boutique-ado

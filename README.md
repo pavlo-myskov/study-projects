@@ -4,6 +4,10 @@
     - ### [Live Link](https://resume-pavlo-myskov.netlify.app/)
     - ### [Repo](https://github.com/FlashDrag/resume-pavlo-myskov/)
 
+- ## Boutique Ado - B2C E-Commerce Django-based Web Application
+    - ### [Live Link]()
+    - ### [Repo](https://github.com/FlashDrag/boutique-ado)
+
 - ## Django ToDo List - Simple ToDo app built using Django and Bootstrap
     - ### [Live Link](https://to-do-app-django.herokuapp.com/)
     - ### [Repo](https://github.com/FlashDrag/django-to-do-app)
