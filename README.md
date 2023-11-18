@@ -1,8 +1,12 @@
 # My Study PROJECTS
 
-- ## Resume - Web App based on Bootstrap 4.6. Provides information about developer's skills, experience, and education.
+- ## Resume - Web App based on Bootstrap. Provides information about developer's skills, experience, and education.
     - ### [Live Link](https://resume-pavlo-myskov.netlify.app/)
     - ### [Repo](https://github.com/FlashDrag/resume-pavlo-myskov/)
+
+- ## Recipe API - REST API for managing recipes. Built with Python, Django REST Framework and Docker using Test Driven Development (TDD). Deployed on AWS EC2.
+    - ### [Live Link](http://ec2-34-254-224-163.eu-west-1.compute.amazonaws.com/api/docs)
+    - ### [Repo](https://github.com/FlashDrag/recipe-app-api)
 
 - ## Boutique Ado - B2C E-Commerce Django-based Web Application
     - ### [Live Link]()

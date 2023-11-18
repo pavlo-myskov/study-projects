@@ -46,3 +46,6 @@
 [submodule "boutique-ado"]
 	path = boutique-ado
 	url = https://github.com/FlashDrag/boutique-ado
+[submodule "recipe-app-api"]
+	path = recipe-app-api
+	url = https://github.com/FlashDrag/recipe-app-api
