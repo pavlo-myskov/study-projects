@@ -5,11 +5,10 @@
     - ### [Repo](https://github.com/FlashDrag/resume-pavlo-myskov/)
 
 - ## Recipe API - REST API for managing recipes. Built with Python, Django REST Framework and Docker using Test Driven Development (TDD). Deployed on AWS EC2.
-    - ### [Live Link](http://ec2-34-254-224-163.eu-west-1.compute.amazonaws.com/api/docs)
     - ### [Repo](https://github.com/FlashDrag/recipe-app-api)
 
 - ## Boutique Ado - B2C E-Commerce Django-based Web Application
-    - ### [Live Link]()
+    - ### [Live Link](https://boutique-ecommerce-c39a21be7709.herokuapp.com/)
     - ### [Repo](https://github.com/FlashDrag/boutique-ado)
 
 - ## ProShop - An Ecommerce web app based on Django Rest and React.js
