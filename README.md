@@ -12,6 +12,9 @@
     - ### [Live Link]()
     - ### [Repo](https://github.com/FlashDrag/boutique-ado)
 
+- ## ProShop - An Ecommerce web app based on Django Rest and React.js
+    - ### [Repo](https://github.com/FlashDrag/proshop)
+
 - ## React Redux SPA - Simple E-Commerce React web app with Redux state management
     - ### [Live Link](https://react-redux-spa-87750a2967c2.herokuapp.com/)
     - ### [Repo](https://github.com/FlashDrag/react-redux-app)

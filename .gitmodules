@@ -52,3 +52,6 @@
 [submodule "react-redux-app"]
 	path = react-redux-app
 	url = https://github.com/FlashDrag/react-redux-app
+[submodule "proshop"]
+	path = proshop
+	url = https://github.com/FlashDrag/proshop
