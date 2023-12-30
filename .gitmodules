@@ -49,3 +49,6 @@
 [submodule "recipe-app-api"]
 	path = recipe-app-api
 	url = https://github.com/FlashDrag/recipe-app-api
+[submodule "react-redux-app"]
+	path = react-redux-app
+	url = https://github.com/FlashDrag/react-redux-app

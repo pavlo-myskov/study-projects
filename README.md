@@ -12,6 +12,10 @@
     - ### [Live Link]()
     - ### [Repo](https://github.com/FlashDrag/boutique-ado)
 
+- ## React Redux SPA - Simple E-Commerce React web app with Redux state management
+    - ### [Live Link](https://react-redux-spa-87750a2967c2.herokuapp.com/)
+    - ### [Repo](https://github.com/FlashDrag/react-redux-app)
+
 - ## Django ToDo List - Simple ToDo app built using Django and Bootstrap
     - ### [Live Link](https://to-do-app-django.herokuapp.com/)
     - ### [Repo](https://github.com/FlashDrag/django-to-do-app)
