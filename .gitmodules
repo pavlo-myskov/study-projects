@@ -55,3 +55,6 @@
 [submodule "proshop"]
 	path = proshop
 	url = https://github.com/FlashDrag/proshop
+[submodule "django-vue-todo"]
+	path = django-vue-todo
+	url = https://github.com/FlashDrag/django-vue-todo

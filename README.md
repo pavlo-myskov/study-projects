@@ -18,6 +18,9 @@
     - ### [Live Link](https://react-redux-spa-87750a2967c2.herokuapp.com/)
     - ### [Repo](https://github.com/FlashDrag/react-redux-app)
 
+- ## Django Vue Todo App - Simple ToDo app built using Django, Vue.js, PostgreSQL, Nginx, and Docker
+    - ### [Repo](https://github.com/FlashDrag/django-vue-todo)
+
 - ## Django ToDo List - Simple ToDo app built using Django and Bootstrap
     - ### [Live Link](https://to-do-app-django.herokuapp.com/)
     - ### [Repo](https://github.com/FlashDrag/django-to-do-app)
