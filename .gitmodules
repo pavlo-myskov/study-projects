@@ -58,3 +58,6 @@
 [submodule "django-vue-todo"]
 	path = django-vue-todo
 	url = https://github.com/FlashDrag/django-vue-todo
+[submodule "vue-express-app"]
+	path = vue-express-app
+	url = https://github.com/FlashDrag/vue-express-app

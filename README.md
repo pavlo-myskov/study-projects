@@ -21,6 +21,10 @@
 - ## Django Vue Todo App - Simple ToDo app built using Django, Vue.js, PostgreSQL, Nginx, and Docker
     - ### [Repo](https://github.com/FlashDrag/django-vue-todo)
 
+- ## Vue Express App - Simple ecommerce app built using Vue.js, Express.js, MongoDB, and Firebase Auth
+    - ### [Live Link](https://vue-app-deployment-nupf.onrender.com/)
+    - ### [Repo](https://github.com/FlashDrag/vue-express-app)
+
 - ## Django ToDo List - Simple ToDo app built using Django and Bootstrap
     - ### [Live Link](https://to-do-app-django.herokuapp.com/)
     - ### [Repo](https://github.com/FlashDrag/django-to-do-app)
